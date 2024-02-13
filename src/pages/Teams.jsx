@@ -1,6 +1,6 @@
 import React from 'react'
-import { EquiposList } from "../components/equipos/EquiposList";
-import { SimpleGrid, Box,Text } from "@chakra-ui/react";
+import {EquiposList} from "../components/equipos/EquiposList";
+import {SimpleGrid,Box,Text} from "@chakra-ui/react";
 import EquiposForm from './equipos/EquiposForm'
 import Equipo from '../components/equipos/Equipos';
 import img1 from '../assets/equipo1.png';
