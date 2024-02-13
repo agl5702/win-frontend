@@ -2,9 +2,9 @@ import React from 'react'
 import {Box, Button, SimpleGrid, Text} from '@chakra-ui/react'
 
 import { NavLink } from 'react-router-dom'
-import {TorneoList} from '../components/torneos/TorneoList.jsx'
-import { TorneoFormPages } from './torneos/TorneoFormPage.jsx'
-import Torneo from '../components/torneos/Torneo.jsx'
+import {TorneoList} from '../components/torneos/TorneoList'
+import { TorneoFormPages } from './torneos/TorneoFormPage'
+import Torneo from '../components/torneos/Torneo'
 
 import img1 from '../assets/1.png';
 import img2 from '../assets/2.png';
